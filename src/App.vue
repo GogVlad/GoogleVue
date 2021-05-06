@@ -1,22 +1,44 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+<Google></Google>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Google from './components/Google.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Google
   }
 }
 </script>
 
 <style>
+*{
+
+  margin:0;
+
+  padding:0;
+
+}
+
+html {
+
+  width:100vw;
+
+  height:100vh;
+
+}
+
+
+
+body{
+
+  width:100%;
+
+  height:100%;
+
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
