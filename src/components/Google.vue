@@ -20,7 +20,7 @@
           <input type="submit" class="s-btn" value="Ma simt norocos" />
         </div>
         <div class="language-container">
-          <text> Google offered in: </text>
+          <text> Google oferit in: </text>
           <a
             href="https://www.google.com/setprefs?sig=0_udff_R5hCOzjt324tyLraty3YbQ%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwjqtJqIn7LwAhUKHHcKHR0TBaoQ2ZgBCA4"
             >English</a
