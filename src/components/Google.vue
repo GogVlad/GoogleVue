@@ -1,5 +1,6 @@
 <template>
 <div>
+<body>
   <nav>
     <a href="#">Gmail</a>
     <a href="#">Imagini</a>
@@ -54,6 +55,7 @@
       </div>
     </div>
   </footer>
+  </body>
   </div>
 </template>
 
@@ -173,6 +175,7 @@ nav img {
 
 footer {
   background: #f2f2f2;
+  margin-bottom: 0px
 }
 
 footer h4 {
